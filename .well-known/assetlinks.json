@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.chaosgang.earnyourbeer",
+    "sha256_cert_fingerprints":
+    ["A7:AD:8C:50:E1:4A:13:68:62:9B:35:23:45:45:01:B0:C4:43:01:E7:9B:8A:1F:84:57:C8:E5:AC:41:CC:A1:50"]
+  }
+}]
